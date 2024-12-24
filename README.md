@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend developer
 ------------------
 
-\\I have been learning Frontend programming for 1 year, now I am trying to develop myself further in this field, I even learn more about Backend to become a full stack programmer, that is my goal.
+I have been learning Frontend programming for 1 year, now I am trying to develop myself further in this field, I even learn more about Backend to become a full stack programmer, that is my goal.
 
 * 🌍  I'm based in Việt Nam
 * ✉️  You can contact me at [anh.quach.dev@gmail.com](mailto:anh.quach.dev@gmail.com)
