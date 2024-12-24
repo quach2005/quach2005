@@ -8,7 +8,7 @@ I have been learning Frontend programming for 1 year, now I am trying to develop
 
 * 🌍  I'm based in Việt Nam
 * ✉️  You can contact me at [anh.quach.dev@gmail.com](mailto:anh.quach.dev@gmail.com)
-* 🧠  I'm learning Hiện tại tôi đang học Angular cho dự án sắp tới của mình.
+* 🧠  I am currently learning Angular for my upcoming project.
 * 🤝  I'm open to collaborating on I am open to working on front-end projects.
 * ⚡  This is a secret, don't tell anyone. I'm a good boy and I don't have a girlfriend.
 
