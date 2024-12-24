@@ -1,16 +1,17 @@
-## Hi there 👋
+Xin chào, tôi tên là Phạm Anh Quách ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) ====================================================== ======================= ====================================================== ======================= Nhà phát triển frontend --------------- Tôi đã học lập trình Frontend được 1 năm, hiện tại tôi đang cố gắng phát triển bản thân hơn nữa trong lĩnh vực này, tôi thậm chí còn học thêm về Backend để trở thành một lập trình viên full stack, đó là mục tiêu của tôi. * 🌍 Tôi ở Việt Nam * ✉️ Bạn có thể liên hệ với tôi qua email [anh.quach.dev@gmail.com](mailto:anh.quach.dev@gmail.com)[](mailto:anh.quach. dev@gmail.com) * 🧠 Tôi đang học Hiện tại tôi đang học Angular cho dự án sắp xếp của mình. * 🤝 Tôi sẵn sàng cộng tác Tôi sẵn sàng làm việc trên các dự án front-end. * ⚡ Đây là bí mật, đừng nói với ai nhé. Tôi là một chàng trai lo âu và tôi không có bạn gái.
 
-<!--
-**quach2005/quach2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Kỹ năng
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<a href="https://developer.mozilla.org/vi-VN/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a> <a href="https://developer.mozilla.org/vi-VN/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width= "36" height="36" alt="HTML5" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="Phản ứng" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+
+
+### Mạng xã hội
+
+<p align="left"> <a href="https://www.facebook.com/quachpham.10052005" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/quach2005" target="_blank" rel="noreferrer"> <hình ảnh> <source media="(ưa thích phối màu: tối)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(ưa thích phối màu: sáng)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </hình ảnh> </a> </p>
+
+### Huy hiệu
+
+<a href="https://github.com/quach2005" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quach2005&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Ngôn ngữ hàng đầu" alt="Ngôn ngữ hàng đầu" /></a>
